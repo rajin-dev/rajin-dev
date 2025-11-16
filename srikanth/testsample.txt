@@ -1,2 +1,1 @@
-hello chinna
-hello world
+hi hello welcome to devops
