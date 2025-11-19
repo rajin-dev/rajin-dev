@@ -1,1 +1,1 @@
-HI iam learinign about devops
+HI iam learinign about devops and need to learn jenkins and kubernatees
